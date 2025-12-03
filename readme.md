@@ -40,5 +40,9 @@ The design ensures:
 
 ## 📂 Schema ER Diagram
 
-> *(If you add the ER image, reference it here)*
+> ![image](https://github.com/user-attachments/assets/ca2f788b-5f7f-4fa6-8897-1d5464a6f9f6)
 
+## 📂 Group Members
+- Pavani Singhal- 341093
+- M Janani Sree-341085
+- Arya Verma-341070
